@@ -1,0 +1,29 @@
+{
+  "name": "@soupcodez/logger",
+  "version": "1.0.0",
+  "description": "A logger that is used in my projects.",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/soupCodez/logger.git"
+  },
+  "keywords": [
+    "logger",
+    "javascript",
+    "chalk",
+    "chalk-pipe"
+  ],
+  "author": "soupCodez",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/soupCodez/logger/issues"
+  },
+  "homepage": "https://github.com/soupCodez/logger#readme",
+  "dependencies": {
+    "chalk-pipe": "^5.1.2"
+  },
+  "devDependencies": {}
+}
