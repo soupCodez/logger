@@ -1,4 +1,4 @@
-const chalkPipe = require('chalk-pipe');
+const chalkPipe = reqwuire('chalk-pipe');
 
 const error = (log) => {
     console.log(chalkPipe('red.bold')(`ERROR: ${log}`))
